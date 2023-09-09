@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TourismPlan/static/css/main.063f535d.css",
+    "main.js": "/TourismPlan/static/js/main.db6437a4.js",
+    "index.html": "/TourismPlan/index.html",
+    "main.063f535d.css.map": "/TourismPlan/static/css/main.063f535d.css.map",
+    "main.db6437a4.js.map": "/TourismPlan/static/js/main.db6437a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063f535d.css",
+    "static/js/main.db6437a4.js"
+  ]
+}
